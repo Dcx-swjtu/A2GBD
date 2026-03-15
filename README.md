@@ -31,6 +31,7 @@ python train.py --dataset Cora --model_type GCN --device cuda --seed 42
 | `--device`     | string   | Computation device               | `cuda`, `cpu`, or GPU id (e.g. `cuda:0`) | `cuda` |
 | `--seed`       | int      | Random seed for reproducibility  | Any integer   | `42`    |
 
+The generated attack dataset is provided for research and reference purposes only：https://drive.google.com/drive/folders/1Ywm2ZDFk478sTUpUYdD4hD-bMvVGD3ng?usp=drive_link
 
 ## Requirements
 
